@@ -1,1 +1,1 @@
-# quine-mccluskey-tool
+# Petrick_method
